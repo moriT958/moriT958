@@ -5,12 +5,10 @@ I'm a studen from Kagoshima, Japan.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriT958&layout=compact&theme=tokyonight)
 
 
-## Programming Languages
+## Techs
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python," /> <br /><br />
 
-## Frameworks and Library
 <img src="https://skillicons.dev/icons?i=react,tailwind,flask,fastapi" /> <br /><br />
 
-## DB and Dev Tools etc
 <img src="https://skillicons.dev/icons?i=sqlite,github,vscode," /> <br /><br />
 
