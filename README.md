@@ -6,9 +6,4 @@ I'm a studen from Kagoshima, Japan.
 
 
 ## Techs
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python," /> <br /><br />
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,flask,fastapi" /> <br /><br />
-
-<img src="https://skillicons.dev/icons?i=sqlite,github,vscode," /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,python,flask,fastapi,sqlite,vscode," /> <br /><br />
