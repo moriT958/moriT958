@@ -5,4 +5,4 @@ I'm a studen from Kagoshima, Japan.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriT958&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ## Techs
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,python,flask,fastapi,sqlite,vscode," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,python,flask,fastapi,sqlite,vscode,git" /> <br /><br />
