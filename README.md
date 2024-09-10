@@ -5,4 +5,4 @@ Kagoshima, Japan.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moriT958&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ## Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,fastapi,go,docker,git" /> <br /><br />
