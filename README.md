@@ -2,16 +2,17 @@
 
 ```go
 Me := Profile{
-  Name:       "Kohei Morita",
-  Country:    "Japan🇯🇵",
-  Prefecture: "Kagoshima🌋",
-  Status:     "Student👨‍🎓",
-  Techs: map[string][]string{
-    "language": {"Go", "TypeScript"},
-    "other":    {"Neovim", "Docker", "PostgreSQL", "SQLite3"},
-  },
-  X:     "@morita_kagshm",
-  Blogs: "https://morit958.netlify.app/",
+	Name:       "Morita Kohei",
+	Country:    "Japan🇯🇵",
+	Prefecture: "Kagoshima🌋",
+	Status:     "Student👨‍🎓",
+	Techs: map[string][]string{
+		"language": {"Go", "Typescript"},
+		"editor":   {"VSCode", "Neovim"},
+		"other":    {"Docker", "BubbleTea"},
+	},
+	X:     "@morita_kagshm",
+	Blogs: "https://morit958.netlify.app/",
 }
 ```
 
