@@ -12,7 +12,7 @@ Me := Profile{
 		"other":    {"Docker", "BubbleTea"},
 	},
 	X:     "@morita_kagshm",
-	Blogs: "https://morit958.netlify.app/",
+	Blogs: "https://morit958.com/",
 }
 ```
 
